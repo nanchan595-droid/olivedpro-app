@@ -1,0 +1,13 @@
+{
+  "name": "olivedpro-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "olived dev",
+    "build": "olived build",
+    "preview": "olived preview"
+  },
+  "dependencies": {
+    "olived": "^0.2.21"
+  }
+}
